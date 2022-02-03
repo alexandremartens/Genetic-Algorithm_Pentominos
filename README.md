@@ -1,10 +1,10 @@
 # Genetic-Algorithm_Pentominos
 
-info section explains the behaviour of the algorithm
-Using only L,P,T without values? -> Section 1
-Using values? -> Section 2
-Don't forget to adjust the time limit. this is going to stop the execution
-  of the program if no solution found
+info section explains the behaviour of the algorithm<br />
+Using only L,P,T without values? -> Section 1<br />
+Using values? -> Section 2<br />
+Don't forget to adjust the time limit. this is going to stop the execution<br />
+  of the program if no solution found<br />
 
   ## Section 1
   Step 1.0: fill L,P,T number of parcels<br/>
